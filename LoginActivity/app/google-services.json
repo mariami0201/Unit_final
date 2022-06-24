@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681288867980",
+    "project_id": "applicatione-ba2fc",
+    "storage_bucket": "applicatione-ba2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681288867980:android:eee52cd8e12cca0b2b1ba9",
+        "android_client_info": {
+          "package_name": "com.example.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681288867980-s5l2rrq925u7hfhjv4303korc29mlidg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwve77boVe_kKBQO4HQ5qce8WgWzB_vps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681288867980-s5l2rrq925u7hfhjv4303korc29mlidg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
